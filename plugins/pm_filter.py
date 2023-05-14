@@ -65,7 +65,7 @@ async def give_filter(client, message):
 
 @Client.on_message(filters.private & filters.text & filters.chat(AUTH_USERS) if AUTH_USERS else filters.text & filters.private)
 async def give_filter(client, message):
-    if message.chat.id != SUPPORT_CHAT_ID:
+    if PMFILTER.strip().lower() in ["true", "yes", "1", "enable", "y"]:
         glob = await global_filters(client, message)
         if glob == False:
             manual = await manual_filters(client, message)
