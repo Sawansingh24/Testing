@@ -31,6 +31,8 @@ from database.filters_mdb import (
     find_filter,
     get_filters,
 )
+file_req_channel = FILE_REQ_CHANNEL
+
 from database.gfilters_mdb import (
     find_gfilter,
     get_gfilters,
