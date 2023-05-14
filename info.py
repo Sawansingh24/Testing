@@ -96,3 +96,9 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 10800))
 DOWNLOAD_TEXT_URL = "https://t.me/tnlinkdown/6"
 CAPTION_BUTTON_URL = "https://t.me/RolexMoviesOXO"
+WEBHOOK = bool(environ.get("WEBHOOK", True))
+BUTTON_LOCK = environ.get("BUTTON_LOCK", "True")
+RemoveBG_API = environ.get("RemoveBG_API", "eQ9W36MSu3pmQJLVPZHmF47F")
+PM_IMDB = environ.get('PM_IMDB', "True")
+REQ_SUB = bool(environ.get("REQ_SUB", True))
+
