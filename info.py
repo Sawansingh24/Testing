@@ -102,4 +102,5 @@ RemoveBG_API = environ.get("RemoveBG_API", "eQ9W36MSu3pmQJLVPZHmF47F")
 PM_IMDB = environ.get('PM_IMDB', "True")
 REQ_SUB = bool(environ.get("REQ_SUB", True))
 PMFILTER = environ.get('PMFILTER', "True")
+FILE_REQ_CHANNEL = int(environ.get('FILE_REQ_CHANNEL', LOG_CHANNEL))
 
