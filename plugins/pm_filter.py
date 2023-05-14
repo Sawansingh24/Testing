@@ -45,7 +45,7 @@ BUTTONS = {}
 SPELL_CHECK = {}
 
 
-@Client.on_message(filters.group & filters.text & filters.incoming)
+@Client.on_message(filters.group & filters.text & filters.incoming & filters.private & filters.chat(AUTH_USERS) if AUTH_USERS else filters.text & filters.private)
 async def give_filter(client, message):
     if message.chat.id != SUPPORT_CHAT_ID:
         glob = await global_filters(client, message)
@@ -64,16 +64,14 @@ async def give_filter(client, message):
                         await auto_filter(client, message)
 
 @Client.on_message(filters.private & filters.text & filters.chat(AUTH_USERS) if AUTH_USERS else filters.text & filters.private)
-async def give_filter(client, message):
-    if PMFILTER.strip().lower() in ["true", "yes", "1", "enable", "y"]:
-        glob = await global_filters(client, message)
-        if glob == False:
-            manual = await manual_filters(client, message)
-            if manual == False:
-                settings = await get_settings(message.chat.id)
-                try:
-                    if settings['auto_ffilter']:
-                        await auto_filter(client, message)
+async def auto_pm_fill(b, m):
+    if PMFILTER.strip().lower() in ["true", "yes", "1", "enable", "y"]:       
+        if G_FILTER:
+            kd = await global_filters(b, m)
+            if kd == False:
+                await pm_AutoFilter(b, m)
+        else:      
+            await pm_AutoFilter(b, m)
     elif PMFILTER.strip().lower() in ["false", "no", "0", "disable", "n"]:
         return
 
