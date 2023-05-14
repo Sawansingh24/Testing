@@ -101,4 +101,5 @@ BUTTON_LOCK = environ.get("BUTTON_LOCK", "True")
 RemoveBG_API = environ.get("RemoveBG_API", "eQ9W36MSu3pmQJLVPZHmF47F")
 PM_IMDB = environ.get('PM_IMDB', "True")
 REQ_SUB = bool(environ.get("REQ_SUB", True))
+PMFILTER = environ.get('PMFILTER', "True")
 
