@@ -760,10 +760,11 @@ async def shortlink(bot, message):
     else:
         return
     data = message.text
-    userid = message.from_user.id
+    userid = message.from_user.id if message.from_user else None
     user = await bot.get_chat_member(grpid, userid)
-    if user.status != enums.ChatMemberStatus.ADMINISTRATOR and user.status != enums.ChatMemberStatus.OWNER and str(userid) not in ADMINS:
-        return await message.reply_text("<b>You don't have access to use this command !</b>")
+    if not userid:
+        return await message.reply(f"You are anonymous admin. Use /connect {message.chat.id} in PM")
+    chat_type = message.chat.type
     else:
         pass
     try:
