@@ -760,13 +760,8 @@ async def shortlink(bot, message):
     else:
         return
     data = message.text
-    userid = message.from_user.id if message.from_user else None
+    userid = message.from_user.id
     user = await bot.get_chat_member(grpid, userid)
-    if not userid:
-        return await message.reply(f"You are anonymous admin. Use /connect {message.chat.id} in PM")
-    chat_type = message.chat.type
-    else:
-        pass
     try:
         command, shortlink_url, api = data.split(" ")
     except:
