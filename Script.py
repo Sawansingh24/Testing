@@ -62,14 +62,25 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
-    EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
-<b>ɴᴏᴛᴇ:</b>
-ᴛʜᴇꜱᴇ ᴀʀᴇ ᴛʜᴇ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ
-Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
-• /id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code>
-• /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>
-• /imdb  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ɪᴍᴅʙ ꜱᴏᴜʀᴄᴇ.</code>
-• /search  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ᴠᴀʀɪᴏᴜꜱ ꜱᴏᴜʀᴄᴇꜱ.</code>"""
+    EXTRAMOD_TXT = """𝟷. Mᴀᴋᴇ Sᴜʀᴇ ᴜʀ Gʀᴏᴜᴘ Hᴀs 𝟷𝟶𝟶+ Mᴇᴍʙᴇʀs !!!
+
+𝟸. Aᴅᴅ Bᴏᴛ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Wɪᴛʜ Fᴜʟʟ Aᴅᴍɪɴ Rɪɢʜᴛs
+
+𝟹. Aғᴛᴇʀ Aᴅᴅɪɴɢ Iɴ Gʀᴏᴜᴘ, Cʀᴇᴀᴛᴇ Aᴄᴄᴏᴜɴᴛ Iɴ Aɴʏ URL Sʜᴏʀᴛɴᴇʀ WᴇʙsɪᴛE 
+
+Mʏ Sᴜɢɢᴇsᴛɪᴏɴ(CPM 𝟽+) : <a href='https://tnshort.net/ref/Bharathraj'>Tɴsʜᴏʀᴛ.ɴᴇᴛ</a>
+
+𝟺. Aғᴛᴇʀ Mᴀᴋɪɴɢ Aᴄᴄᴏᴜɴᴛ Iɴ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ Sᴇɴᴅ Tʜɪs Cᴏᴍᴍᴀɴᴅ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ 👇
+
+—> /sʜᴏʀᴛʟɪɴᴋ ʏᴏᴜʀ_sʜᴏʀᴛᴇɴᴇʀ_ᴡᴇʙsɪᴛᴇ_ɴᴀᴍᴇ (ʏᴏᴜʀ_sʜᴏʀᴛᴇɴᴇʀ_ᴀᴘɪ)
+
+#Exᴀᴍᴘʟᴇ:-
+
+/sʜᴏʀᴛʟɪɴᴋ ᴛɴsʜᴏʀᴛ.ɴᴇᴛ ʙ𝟼ᴀᴀᴄᴇ𝟺𝟼ᴅ𝟺𝟶ᴄ𝟼𝟶𝟻ғғғ𝟾ᴇ𝟶ᴄᴀғʙᴄᴅ𝟾ғʙᴇ𝟺𝟷𝟼𝟾𝟻𝟷ғ𝟺ᴅ
+
+𝟻. Aᴅᴅ Mᴏʀᴇ Mᴇᴍʙᴇʀs Tᴏ Eᴀʀɴ Mᴏɴᴇʏ
+
+𝟼. Tʜᴀᴛ's Iᴛ !! Eɴᴊᴏʏ Mᴀᴋɪɴɢ Mᴏɴᴇ"""
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
 <b>ɴᴏᴛᴇ:</b>
@@ -198,3 +209,64 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>⏰Tɪᴍᴇ : <code>{}</code>
 
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>TamilNadua</code></b>"""
+    
+    TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
+
+Do as you wish with telegra.ph module!
+
+</b>USAGE:</b>
+
+🤧 /telegraph - Send me this command reply with Picture or Vide Under (5MB) 
+
+<b>NOTE:</b>
+
+• This Command Is Available in goups and pms
+• This Command Can be used by everyone"""
+    
+    YTDL = """<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
+
+🍁 𝘜𝘴𝘢𝘨𝘦
+𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘖𝘳 𝘈𝘶𝘥𝘪𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
+
+𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+• /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
+• /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
+
+• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
+<code>/song mkn</code>
+<code>/mp4 https://youtu.be/*******</code>
+<code>/video https://youtu.be/*****</code>  """
+    
+    FOND_TXT = """☾︎𝗛𝗘𝗟𝗣 𝗙𝗢𝗥 𝗙𝗢𝗡𝗧𝗦☽︎
+𝙵𝙾𝙽𝚃 𝙸𝚂 𝙰 𝙼𝙾𝙳𝚄𝙻𝙴 𝙵𝙾𝚁 𝙼𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝚃𝙴𝚇𝚃 𝚂𝚃𝚈𝙻𝙸𝚂𝙷.
+𝙵𝙾𝚁 𝚄𝚂𝙴 𝚃𝙷𝙰𝚃 𝙵𝙴𝚄𝚃𝚄𝚁𝙴 𝚃𝚈𝙿𝙴 /font <your text> 𝚃𝙷𝙴𝙽 𝚈𝙾𝚄𝚁 𝚃𝙴𝚇𝚃 𝙸𝚂 𝚁𝙴𝙰𝙳𝚈."""
+    
+    TTS_TXT = """Help: <b> TTS 🎤 module:</b>
+
+Translate text to speech
+
+<b>Commands and Usage:</b>
+
+• /tts <text> : convert text to speech
+
+<b>NOTE:</b>
+
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• IMDb can translate texts to 200+ languages."""
+    
+    
+    IMAGE_TXT = """➤ 𝐇𝐞𝐥𝐩: Iᴍᴀɢᴇ
+
+𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚎𝚍𝚒𝚝 𝚒𝚖𝚊𝚐𝚎 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚒𝚕𝚢 
+
+➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+
+➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
+
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mr_MKN>Mr.MKN TG</a>"""
+    
+    CARB_TXT = """☾︎𝗛𝗘𝗟𝗣 𝗙𝗢𝗥 𝗖𝗔𝗥𝗕𝗢𝗡☽︎
+𝙲𝙰𝚁𝙱𝙾𝙽 𝙸𝚂 𝙰 𝙵𝙴𝚄𝚃𝚄𝚁𝙴 𝚃𝙾 𝙼𝙰𝙺𝙴 𝚃𝙷𝙴 𝙸𝙼𝙰𝙶𝙴 𝙰𝚂 𝚂𝙷𝙾𝚆𝙽 𝙸𝙽 𝚃𝙷𝙴 𝚃𝙾𝙿 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁𝙴 𝚃𝙴𝚇𝚃𝚂.
+𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚃𝙴𝚇𝚃 𝙰𝙽𝙳 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙸𝚃 𝚆𝙸𝚃𝙷 /carbon 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚃𝙷𝙴 𝙱𝙾𝚃 𝚆𝙸𝙻𝙻 𝚁𝙴𝙿𝙻𝚈 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝙲𝙰𝚁𝙱𝙾𝙽 𝙸𝙼𝙰𝙶𝙴"""
+    
