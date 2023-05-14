@@ -63,18 +63,6 @@ async def give_filter(client, message):
                     if settings['auto_ffilter']:
                         await auto_filter(client, message)
 
-@Client.on_message(filters.private & filters.text & filters.chat(AUTH_USERS) if AUTH_USERS else filters.text & filters.private)
-async def auto_pm_fill(b, m):
-    if PMFILTER.strip().lower() in ["true", "yes", "1", "enable", "y"]:       
-        if G_FILTER:
-            kd = await global_filters(b, m)
-            if kd == False:
-                await pm_AutoFilter(b, m)
-        else:      
-            await pm_AutoFilter(b, m)
-    elif PMFILTER.strip().lower() in ["false", "no", "0", "disable", "n"]:
-        return
-
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
     ident, req, key, offset = query.data.split("_")
