@@ -1598,7 +1598,8 @@ async def auto_filter(client, msg, spoll=False):
                     return await advantage_spell_chok(client, msg)
                 else:
                     if NO_RESULTS_MSG:
-                        await client.send_message(chat_id=REQUEST_LOGS, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, search)))
+                        await client.send_message(file_req_channel,f"🦋 #REQUESTED_FILE 🦋\n\n♦️Fɪʟᴇ Nᴀᴍᴇ :{search}\n\nRᴇǫᴜᴇsᴛᴇᴅ Bʏ: {message.from_user.first_name}\n\n Usᴇʀ Iᴅ :{message.from_user.id}",
+                                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🔺 Fɪʟᴇ Uᴩʟᴏᴀᴅᴇᴅ Sᴜᴄᴄᴇssғᴜʟʟʏ 🔺", callback_data="close_data")]]))
                     return
         else:
             return
