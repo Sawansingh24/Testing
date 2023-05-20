@@ -16,9 +16,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutooxox&label=Profile%20views&color=0e75b6&style=flat" alt="narutooxox" /> </p>
 
-## Fᴇᴀᴛᴜʀᴇs <b>
+## Features
 
-» ♦️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Bᴜᴛᴛᴏɴ\n
+» ♦️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Bᴜᴛᴛᴏɴ
 » ♦️ Tᴇʟᴇɢʀᴀᴩʜ Gᴇɴᴇʀᴀᴛᴏʀ
 » ♦️ Yᴜᴛᴜʙᴇ Vɪᴅᴇᴏ & ᴍᴘ𝟹 Dᴏᴡɴʟᴏᴀᴅᴇʀ
 » ♦️ Iɴʙᴜɪʟᴅ Tᴇʟᴇɢʀᴀᴘʜ Gᴇɴᴇʀᴀᴛᴏʀ
@@ -27,7 +27,7 @@
 » ♦️ Aɴʏ Tɪᴍᴇ Yᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ sʜᴏʀᴛᴇɴᴇʀ ᴡᴇʙsɪᴛᴇ ᴜsɪɴɢ ᴄᴏᴍᴍᴀɴᴅ(/sʜᴏʀᴛʟɪɴᴋ)
 » ♦️ Iᴍᴀɢᴇ Eᴅɪᴛᴏʀ
 » ♦️ Aɴʏᴏɴᴇ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ ᴜsɪɴɢ ᴛʜɪs
-» ♦️ Cᴀʀʙᴏɴ Gᴇɴᴇʀᴀᴛᴏʀ<b>
+» ♦️ Cᴀʀʙᴏɴ Gᴇɴᴇʀᴀᴛᴏʀ
 
 ## Commands
 ```
