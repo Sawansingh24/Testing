@@ -16,31 +16,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutooxox&label=Profile%20views&color=0e75b6&style=flat" alt="narutooxox" /> </p>
 
+## Fᴇᴀᴛᴜʀᴇs 
+
+» ♦️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Bᴜᴛᴛᴏɴ
+» ♦️ Tᴇʟᴇɢʀᴀᴩʜ Gᴇɴᴇʀᴀᴛᴏʀ
+» ♦️ Yᴜᴛᴜʙᴇ Vɪᴅᴇᴏ & ᴍᴘ𝟹 Dᴏᴡɴʟᴏᴀᴅᴇʀ
+» ♦️ Iɴʙᴜɪʟᴅ Tᴇʟᴇɢʀᴀᴘʜ Gᴇɴᴇʀᴀᴛᴏʀ
+» ♦️ Uʀʟ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛ
+» ♦️ Tᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ
+» ♦️ Aɴʏ Tɪᴍᴇ Yᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ sʜᴏʀᴛᴇɴᴇʀ ᴡᴇʙsɪᴛᴇ ᴜsɪɴɢ ᴄᴏᴍᴍᴀɴᴅ(/sʜᴏʀᴛʟɪɴᴋ)
+» ♦️ Iᴍᴀɢᴇ Eᴅɪᴛᴏʀ
+» ♦️ Aɴʏᴏɴᴇ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ ᴜsɪɴɢ ᴛʜɪs
+» ♦️ Cᴀʀʙᴏɴ Gᴇɴᴇʀᴀᴛᴏʀ
+
 ## Commands
 ```
-• /logs - to get the rescent errors
-• /stats - to get status of files in db
-* /filter - add manual filters
-* /filters - view filters
-* /connect - connect to PM.
-* /disconnect - disconnect from PM
-* /del - delete a filter
-* /delall - delete all filters
-* /deleteall - delete all index(autofilter)
-* /delete - delete a specific file from index.
-* /info - get user info
-* /id - get tg ids.
-* /imdb - fetch info from imdb.
-• /users - to get list of my users and ids.
-• /chats - to get list of the my chats and ids 
-• /index  - to add files from a channel
-• /leave  - to leave from a chat.
-• /disable  -  do disable a chat.
-* /enable - re-enable chat.
-• /ban  - to ban a user.
-• /unban  - to unban a user.
-• /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
-• /batch - to create link for multiple posts
-• /link - to create link for one post
+sᴛᴀʀᴛ -✨ ᴄʜᴇᴄᴋ ᴀʟɪᴠᴇ/ɢᴇᴛ ғɪʟᴇs 
+sᴛᴀᴛs - 👩‍💻 ʙᴏᴛ sᴛᴀᴛs
+ᴍᴏᴠɪᴇs -🎬 ᴍᴏᴠɪᴇs ʀᴇǫᴜᴇsᴛ Tɪᴘs
+sᴇʀɪᴇs - 🔖 sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ Tɪᴘs
+ᴛᴜᴛᴏʀɪᴀʟ - 🗂 ʜᴏᴡ ᴛᴏ ɢᴇᴛ ғɪʟᴇs (Tᴜᴛᴏʀɪᴀʟ Vɪᴅᴇᴏ)
+ᴄᴏɴɴᴇᴄᴛ - 😇 ᴄᴏɴɴᴇᴄᴛ ᴛᴏ Yᴏᴜʀ ɢʀᴏᴜᴘ
+ʙʀᴏᴀᴅᴄᴀsᴛ - 🔮 ʙʀᴏᴀᴅᴄᴀsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ )
+ʟɪɴᴋ - 🖇 ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
+sʜᴏʀᴛʟɪɴᴋ - 💰Cʜᴀɴɢᴇ Lɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ᴡᴇʙɪsᴛᴇ ᴀɴᴅ ᴀᴘɪ [Aɴʏᴏɴᴇ ᴄᴀɴ ᴄʜᴀɴɢᴇ]
+ғᴏɴᴛ - 🖋Tᴏ ᴄʜᴀɴɢᴇ ᴀɴʏ ᴛɪᴍᴇ ᴏғ ғᴏɴᴛs
+ᴛᴛs - 🗣Tᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ
+ʏᴛᴅʟ - Yᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ ᴀɴᴅ ᴍᴘ𝟹 ᴅᴏᴡɴʟᴏᴀᴅ
+ᴄᴀʀʙᴏɴ - 📸ᴄᴀʀʙᴏɴ ᴀɴʏ ɪᴍᴀɢᴇ
+ᴇᴀʀɴ - 💸Eᴀʀɴɪɴɢ Tɪᴘs
 
