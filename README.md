@@ -7,8 +7,8 @@
 
 ### Working Bot
 
-<p align="center">
-🤖 <a href="https://t.me/KingSteve1_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=KING+STEVE&message=BOT&color=blue-green"></a> 🤖
+<p>
+ <a href="https://t.me/KingSteve1_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=KING+STEVE&message=BOT&color=blue-green"></a> 
 </p>
 
 ## Deployments
