@@ -207,63 +207,60 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>TamilNadua</code></b>"""
     
-    TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
+    TELE_TXT = """<b>»HELP: Tᴇʟᴇɢʀᴀᴘʜ▪️
 
-Do as you wish with telegra.ph module!
+Dᴏ ᴀs ʏᴏᴜ ᴡɪsʜ ᴡɪᴛʜ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ᴍᴏᴅᴜʟᴇ!
 
-</b>USAGE:</b>
+USAGE:
 
-🤧 /telegraph - Send me this command reply with Picture or Vide Under (5MB) 
+🤧 /ᴛᴇʟᴇɢʀᴀᴘʜ - Sᴇɴᴅ ᴍᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ʀᴇᴘʟʏ ᴡɪᴛʜ Pɪᴄᴛᴜʀᴇ ᴏʀ Vɪᴅᴇ Uɴᴅᴇʀ (𝟻MB) 
+
+NOTE:
+
+• Tʜɪs Cᴏᴍᴍᴀɴᴅ Is Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴜᴘs ᴀɴᴅ ᴘᴍs
+• Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴇᴠᴇʀʏᴏɴᴇ</b>"""
+    
+    YTDL = """<b>»YOUTUBE DOWNLOAD MODULE</b>
+
+🍁Usᴀɢᴇ : Yᴏᴜ Cᴀɴ Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Vɪᴅᴇᴏ Oʀ Aᴜᴅɪᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ
+
+» Hᴏᴡ Tᴏ Usᴇ
+• Isᴏɴɢ SONG NAME
+• /ᴠɪᴅᴇᴏ ᴏʀ /ᴍᴘ𝟺 Aɴᴅ ʜᴛᴛᴘs://ʏᴏᴜᴛᴜ.ʙᴇ/*****
+
+• Exᴀᴍᴘʟᴇ:
+
+<ᴄᴏᴅᴇ>/sᴏɴɢ RXM</ᴄᴏᴅᴇ>
+<ᴄᴏᴅᴇ>/ᴍᴘ𝟺 ʜᴛᴛᴘs://ʏᴏᴜᴛᴜ.ʙᴇ/*******</ᴄᴏᴅᴇ>
+<ᴄᴏᴅᴇ>/ᴠɪᴅᴇᴏ ʜᴛᴛᴘs://ʏᴏᴜᴛᴜ.ʙᴇ/*****</ᴄᴏᴅᴇ>"""
+    
+    FOND_TXT = """<b>« HELP FOR FONTS »
+FONT IS A MODULE FOR MAKE YOUR TEXT STYLISH.
+FOR USE THAT FEUTURE TYPE /ғᴏɴᴛ <ʏᴏᴜʀ ᴛᴇxᴛ> THEN YOUR TEXT IS READY.</b>"""
+    
+    TTS_TXT = """Hᴇʟᴘ: <b> TTS 🎤 ᴍᴏᴅᴜʟᴇ:</b>
+
+Tʀᴀɴsʟᴀᴛᴇ ᴛᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ
+
+<b>Cᴏᴍᴍᴀɴᴅs ᴀɴᴅ Usᴀɢᴇ:</b>
+
+• /ᴛᴛs <ᴛᴇxᴛ> : ᴄᴏɴᴠᴇʀᴛ ᴛᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ
 
 <b>NOTE:</b>
 
-• This Command Is Available in goups and pms
-• This Command Can be used by everyone"""
-    
-    YTDL = """<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
-
-🍁 𝘜𝘴𝘢𝘨𝘦
-𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘖𝘳 𝘈𝘶𝘥𝘪𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
-
-𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
-• /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
-
-• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/song mkn</code>
-<code>/mp4 https://youtu.be/*******</code>
-<code>/video https://youtu.be/*****</code>  """
-    
-    FOND_TXT = """☾︎𝗛𝗘𝗟𝗣 𝗙𝗢𝗥 𝗙𝗢𝗡𝗧𝗦☽︎
-𝙵𝙾𝙽𝚃 𝙸𝚂 𝙰 𝙼𝙾𝙳𝚄𝙻𝙴 𝙵𝙾𝚁 𝙼𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝚃𝙴𝚇𝚃 𝚂𝚃𝚈𝙻𝙸𝚂𝙷.
-𝙵𝙾𝚁 𝚄𝚂𝙴 𝚃𝙷𝙰𝚃 𝙵𝙴𝚄𝚃𝚄𝚁𝙴 𝚃𝚈𝙿𝙴 /font <your text> 𝚃𝙷𝙴𝙽 𝚈𝙾𝚄𝚁 𝚃𝙴𝚇𝚃 𝙸𝚂 𝚁𝙴𝙰𝙳𝚈."""
-    
-    TTS_TXT = """Help: <b> TTS 🎤 module:</b>
-
-Translate text to speech
-
-<b>Commands and Usage:</b>
-
-• /tts <text> : convert text to speech
-
-<b>NOTE:</b>
-
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
+• IMDʙ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• Tʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
+• IMDʙ ᴄᴀɴ ᴛʀᴀɴsʟᴀᴛᴇ ᴛᴇxᴛs ᴛᴏ 𝟸𝟶𝟶+ ʟᴀɴɢᴜᴀɢᴇs."""
     
     
     IMAGE_TXT = """➤ 𝐇𝐞𝐥𝐩: Iᴍᴀɢᴇ
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚎𝚍𝚒𝚝 𝚒𝚖𝚊𝚐𝚎 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚒𝚕𝚢 
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ʜᴇʟᴘs ʏᴏᴜ ᴛᴏ ᴇᴅɪᴛ ɪᴍᴀɢᴇ Vᴇʀʏ ᴇᴀsɪʟʏ
 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 
-➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
-
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mr_MKN>Mr.MKN TG</a>"""
+➪ Jᴜsᴛ Sᴇɴᴅ ᴍᴇ ᴀ ɪᴍᴀɢᴇ ᴛᴏ ᴇᴅɪᴛ ✨"""
     
-    CARB_TXT = """☾︎𝗛𝗘𝗟𝗣 𝗙𝗢𝗥 𝗖𝗔𝗥𝗕𝗢𝗡☽︎
+    CARB_TXT = """☾𝗛𝗘𝗟𝗣 𝗙𝗢𝗥 𝗖𝗔𝗥𝗕𝗢𝗡☽
 𝙲𝙰𝚁𝙱𝙾𝙽 𝙸𝚂 𝙰 𝙵𝙴𝚄𝚃𝚄𝚁𝙴 𝚃𝙾 𝙼𝙰𝙺𝙴 𝚃𝙷𝙴 𝙸𝙼𝙰𝙶𝙴 𝙰𝚂 𝚂𝙷𝙾𝚆𝙽 𝙸𝙽 𝚃𝙷𝙴 𝚃𝙾𝙿 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁𝙴 𝚃𝙴𝚇𝚃𝚂.
-𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚃𝙴𝚇𝚃 𝙰𝙽𝙳 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙸𝚃 𝚆𝙸𝚃𝙷 /carbon 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚃𝙷𝙴 𝙱𝙾𝚃 𝚆𝙸𝙻𝙻 𝚁𝙴𝙿𝙻𝚈 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝙲𝙰𝚁𝙱𝙾𝙽 𝙸𝙼𝙰𝙶𝙴"""
-    
+𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚃𝙴𝚇𝚃 𝙰𝙽𝙳 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙸𝚃 𝚆𝙸𝚃𝙷 /ᴄᴀʀʙᴏɴ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚃𝙷𝙴 𝙱𝙾𝚃 𝚆𝙸𝙻𝙻 𝚁𝙴𝙿𝙻𝚈 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝙲𝙰𝚁𝙱𝙾𝙽 𝙸𝙼𝙰𝙶𝙴"""
