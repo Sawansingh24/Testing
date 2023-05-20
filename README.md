@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗥𝗢𝗟𝗘𝗫𝗧𝗚+𝐁𝐎𝐓!)</p>
+
 <p align="center">
   <img src="assets/logo.jpg" alt="Rolex Logo">
 </p>
