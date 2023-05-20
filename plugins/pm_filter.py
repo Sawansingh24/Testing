@@ -380,23 +380,15 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ENABLE_SHORTLINK = False
     pre = 'filep' if settings['file_secure'] else 'file'
     if ENABLE_SHORTLINK == True:
-        btn = [
+        btn = (
+            [
                 [
                     InlineKeyboardButton(
-                        text=f"◖{get_size(file.file_size)}◗ ⚡️ {file.file_name}", url=await get_shortlink(query.message.chat.id, f"https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}")
-                    ),
-                ]
-                for file in files
-            ]
-        else:
-            btn = [
-                [
-                    InlineKeyboardButton(
-                        text=f"{file.file_name}", url=await get_shortlink(query.message.chat.id, f"https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}")
-                    ),
-                    InlineKeyboardButton(
-                        text=f"{get_size(file.file_size)}",
-                        url=await get_shortlink(query.message.chat.id, f"https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}")
+                        text=f"◖ {get_size(file.file_size)}◗ ⚡️ {file.file_name}",
+                        url=await get_shortlink(
+                            message.chat.id,
+                            f"https://telegram.me/{temp.U_NAME}?start=files_{file.file_id}",
+                        ),
                     ),
                 ]
                 for file in files
