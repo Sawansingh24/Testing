@@ -1272,7 +1272,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ Usɪɴɢ Bᴏᴛ 💸', callback_data='extra')            
+            InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ Usɪɴɢ Bᴏᴛ 💸', callback_data='earn')            
             ],[                     
             InlineKeyboardButton('Tᴇʟᴇɢʀᴀᴘʜ', callback_data='tele'),        
             InlineKeyboardButton('Tᴇxᴛ 𝟸 Sᴘᴇᴇᴄʜ', callback_data='ttss'),           
@@ -1342,6 +1342,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
             InputMediaPhoto(random.choice(PICS), script.FOND_TXT, enums.ParseMode.HTML),
+            reply_markup=reply_markup,
+        )
+    
+    elif query.data == "earn":
+        buttons = [[
+            InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='source')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.edit_message_media(
+            InputMediaPhoto(random.choice(PICS), script.EARN_TXT, enums.ParseMode.HTML),
             reply_markup=reply_markup,
         )
     
