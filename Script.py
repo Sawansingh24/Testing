@@ -220,7 +220,7 @@ NOTE:
 • Tʜɪs Cᴏᴍᴍᴀɴᴅ Is Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴜᴘs ᴀɴᴅ ᴘᴍs
 • Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴇᴠᴇʀʏᴏɴᴇ</b>"""
     
-    YTDL = """<b>»YOUTUBE DOWNLOAD MODULE</b>
+    YTDL_TXT = """<b>»YOUTUBE DOWNLOAD MODULE</b>
 
 🍁Usᴀɢᴇ : Yᴏᴜ Cᴀɴ Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Vɪᴅᴇᴏ Oʀ Aᴜᴅɪᴏ Fʀᴏᴍ Yᴏᴜᴛᴜʙᴇ
 
