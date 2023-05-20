@@ -5,12 +5,6 @@
   <b>RolexTG Bot</b>
 </h1>
 
-### Working Bot
-
-<p>
- <a href="https://t.me/KingSteve1_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=KING+STEVE&message=BOT&color=blue-green"></a> 
-</p>
-
 ## Deployments
 
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
@@ -46,6 +40,7 @@
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/RolexMoviesOXO)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutooxox&label=Profile%20views&color=0e75b6&style=flat" alt="narutooxox" /> </p>
+<p align="left"><a href="https://t.me/KingSteve1_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=KING+STEVE&message=BOT&color=blue-green"></a> </p>
 
 ## Features
 
