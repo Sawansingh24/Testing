@@ -5,6 +5,34 @@
   <b>RolexTG Bot</b>
 </h1>
 
+## Dᴇᴘᴏʟʏ
+
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ {ғʀᴇᴇ}</summary>
+<p>
+<br>
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/narutooxox/RolexTG)
+  </a>
+  </p>
+  <p>
+</details>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
+<p>
+<br>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/narutooxox/RolexTG)
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
+  </a
+  </p>
+  <p>
+</details>  
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
+<p>
+<br>
+(https://railway.app/button.svg)](https://railway.app/template/FNLGnU?referralCode=LqNBNz)
+  <img src="https://railway.app/button.svg" alt="deploy-to-railway">
+  </a>
+  </p>
+  </details>
+
 ## Deployments
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/narutooxox/RolexTG)      [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/FNLGnU?referralCode=LqNBNz)      [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/narutooxox/RolexTG)
