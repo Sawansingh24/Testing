@@ -18,34 +18,16 @@
 
 ## Features
 
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
-- [x] Custom File Caption
-- [x] Group Broadcast 
-- [x] AutoFilter auto delete
-- [x] Junk Group & users clearing on database 
-- [x] Global Filter
-- [x] Url Shortner in AutoFilter 
-- [x] Custom Button Lock
-- [x] image editor & background remover
-- [x] Telegraph, pin, json, password generator
-- [x] Ban, mute, unmute, etc... Group manager 
-- [x] Custom Welcome message
-- [x] Advanced Admin Panel
-- [x] Photo Changing in All buttons
-- [x] Custom Start message
-- [x] Custom Button Alter message
-- [x] advanced status (disk, cpu, ram, uptime..)
+» ♦️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Bᴜᴛᴛᴏɴ\n
+» ♦️ Tᴇʟᴇɢʀᴀᴩʜ Gᴇɴᴇʀᴀᴛᴏʀ
+» ♦️ Yᴜᴛᴜʙᴇ Vɪᴅᴇᴏ & ᴍᴘ𝟹 Dᴏᴡɴʟᴏᴀᴅᴇʀ
+» ♦️ Iɴʙᴜɪʟᴅ Tᴇʟᴇɢʀᴀᴘʜ Gᴇɴᴇʀᴀᴛᴏʀ
+» ♦️ Uʀʟ Sʜᴏʀᴛɴᴇʀ Sᴜᴘᴘᴏʀᴛ
+» ♦️ Tᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ
+» ♦️ Aɴʏ Tɪᴍᴇ Yᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ sʜᴏʀᴛᴇɴᴇʀ ᴡᴇʙsɪᴛᴇ ᴜsɪɴɢ ᴄᴏᴍᴍᴀɴᴅ(/sʜᴏʀᴛʟɪɴᴋ)
+» ♦️ Iᴍᴀɢᴇ Eᴅɪᴛᴏʀ
+» ♦️ Aɴʏᴏɴᴇ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ ᴜsɪɴɢ ᴛʜɪs
+» ♦️ Cᴀʀʙᴏɴ Gᴇɴᴇʀᴀᴛᴏʀ<b>
  
 
 
