@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutooxox&label=Profile%20views&color=0e75b6&style=flat" alt="narutooxox" /> </p>
 
 ## Fᴇᴀᴛᴜʀᴇs 
-
+```
 » ♦️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Bᴜᴛᴛᴏɴ\n
 » ♦️ Tᴇʟᴇɢʀᴀᴩʜ Gᴇɴᴇʀᴀᴛᴏʀ
 » ♦️ Yᴜᴛᴜʙᴇ Vɪᴅᴇᴏ & ᴍᴘ𝟹 Dᴏᴡɴʟᴏᴀᴅᴇʀ
