@@ -1,4 +1,4 @@
-<p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗥𝗢𝗟𝗘𝗫𝗧𝗚+𝐁𝐎𝐓!)
+<p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗥𝗢𝗟𝗘𝗫𝗧𝗚+𝐁𝐎𝐓)
 </p>
 
 <p align="center">
