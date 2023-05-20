@@ -1,15 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗥𝗢𝗟𝗘𝗫𝗧𝗚+𝐁𝐎𝐓!)</p>
+<p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗥𝗢𝗟𝗘𝗫𝗧𝗚+𝐁𝐎𝐓!)</p>
 
 <p align="center">
   <img src="assets/logo.jpg" alt="Rolex Logo">
 </p>
-<h1 align="center">
-  <b>RolexTG Bot</b>
-</h1>
 
 ## Deployments
 
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ</summary>
 <p>
 <br>
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/narutooxox/RolexTG">
@@ -18,7 +15,7 @@
   </p>
   <p>
 </details>   
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ</summary>
 <p>
 <br>
 <a href="https://railway.app/template/FNLGnU?referralCode=LqNBNz">
@@ -26,7 +23,7 @@
   </a>
   </p>
   </details>
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ {ғʀᴇᴇ}</summary>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ</summary>
 <p>
 <br>
 <a href="https://dashboard.render.com/blueprint/new?repo=https://github.com/narutooxox/RolexTG">
