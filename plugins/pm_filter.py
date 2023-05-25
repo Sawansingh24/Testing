@@ -1791,7 +1791,7 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton("🔊ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
+                    InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
                     InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
                     InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
                 ]
@@ -1800,9 +1800,9 @@ async def auto_filter(client, msg, spoll=False):
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton("🔊ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
+                    InlineKeyboardButton(f'🔆Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'🔆Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
                 
@@ -1813,18 +1813,18 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton("🎤ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
+                    InlineKeyboardButton(f'🔆Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'🔆Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton("💽ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{search.replace(' ', '_')}#{key}"),
+                    InlineKeyboardButton(f'🔆Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'🔆Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
 
